@@ -1,0 +1,6 @@
+---
+
+- name: Zagruzit na server repozitoriy s failami i18n/ru.po
+  
+
+- name: Scopirovat eti faily v katalog openerp/odoo
