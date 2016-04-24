@@ -1,0 +1,1 @@
+# ansible-odoo-i18n_ru
